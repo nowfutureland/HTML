@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="a.css">
+</head>
+
+<body>
+    <header>
+        <img src="img1.jpg" alt="이미지1" title="태호!">
+        <h1>성일건설 만세</h1>
+    </header>
+
+
+</body>
+
+</html>
