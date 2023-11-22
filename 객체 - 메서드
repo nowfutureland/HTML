@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <h2>DOM 객체 - get 메서드</h2>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
+
+    <p id="text">
+        <span style="color: red;">Lorem ipsum</span> dolor sit amet consectetur<br>
+        adipisicing elit. Blanditiis vero et impedit,<br>
+        aliquid magnam iste at tempore labore velit beatae<br>
+        fugit omnis cum, unde, culpa minus aperiam totam facilis dolore.<br>
+    </p>
+
+</body>
+
+</html>
