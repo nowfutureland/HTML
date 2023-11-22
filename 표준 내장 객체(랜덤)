@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>표준 내장 객체(Standard Built-in)</title>
+</head>
+
+<body>
+    <script>
+        let a = "안녕하세요";
+
+        a.replace("하세요", "하십니까");
+
+
+        let b = 18.124907;
+        document.write(Math.round(b) + "<br>");
+
+        let rd = Math.round(Math.random() * 10);
+        document.write(rd);
+    </script>
+
+
+</body>
+
+</html>
